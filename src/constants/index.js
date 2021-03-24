@@ -1,6 +1,6 @@
 export const INTERVAL_VALUE = 1500;
 export const SCORE={
-    INTERVAL_VALUE: 100,
+    INTERVAL_VALUE: 50,
     INTERVAL_INDEX: 5,
     DIVISOR: 10,
 };
